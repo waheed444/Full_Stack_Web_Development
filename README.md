@@ -1,6 +1,6 @@
-# Web Development Course Repository
+# Web Development Course:
 
-Welcome to my **Full Stack Web Development Course** 🚀  
+Welcome to my **Full Stack Web Development Course** from scratch.🚀  
 This repository contains all the content, projects, and notes from my journey in learning modern full stacm web development from scratch.
 <br> <hr>
 
@@ -34,32 +34,100 @@ This course covers a comprehensive range of topics in **Frontend Development**, 
 ## 🛠️ Tools and Technologies
 
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery.
-- **Backend**: Node.js, Express.js, PostgreSQL.
-- **Version Control**: Git and GitHub.
-- **Web3**: Blockchain platforms, Solidity.
-- **IDE**: [Visual Studio Code (VS Code)](https://code.visualstudio.com/) for all coding tasks.
+- **Backend**: Node.js, Express.js, React.js, SQL & PostgreSQL.
+- **Version Control**: Git, GitHub and Version Control.
+- **Web3**: Blockchain platforms, DApp & DeFi.
+- **IDE**: VS Code 
 <br> <hr>
 
-# Web Development Course Roadmap
 ## 📂 Roadmap Overview
 Below is the structured roadmap for the Web Development Course, organized into **Frontend**, **Backend**, and **Web3** sections.
----
-📁 Frontend/
-├── HTML/
-├── CSS/
-├── Bootstrap/
-├── JavaScript/
-└── jQuery/
-📁 Backend/
-├── Node.js/
-├── Express.js/
-├── APIs/
-├── SQL/
-└── PostgreSQL/
-📁 Web3/
-├── DApps/
-├── DeFi/
-├── Blockchain/
-├── Tokens/
-└── NFTs/
-<br> <hr>
+~~~
++-------------------------+
+| Module 1-->   Frontend  |
++-------------------------+
+                        |
+                        v
+            +-------------------------+
+            |     Complete  HTML    |
+            +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |     Advance  CSS        |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |      Bootstrap          |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |     JavaScript + DOM    |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |        jQuery           |
+             +-------------------------+
+
++-------------------------+
+| Module 2-->   Back end  |
++-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |       Node.js           |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |     Express.js          |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |        React.js         |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |     APIs & Database     |
+             +-------------------------+
+                        |
+                        v
+             +-------------------------+
+             |    SQL & PostgreSQL     |
+             +-------------------------+
+
++-------------------------+
+| Bonus Module-->    Web3 |
++-------------------------+
+                       |
+                       v
+            +-------------------------+
+            |        Blockchain       |
+            +-------------------------+
+                       |
+                       v
+            +-------------------------+
+            |       DApp & DeFi       |
+            +-------------------------+
+                       |
+                       v
+            +-------------------------+
+            |   Deploying to the ICP  |
+            +-------------------------+
+                       |
+                       v
+            +-------------------------+
+            |      Crypto Tokens      |
+            +-------------------------+
+                       |
+                       v
+            +-------------------------+
+            |       Building   NFTs   |
+            +-------------------------+
+
+
