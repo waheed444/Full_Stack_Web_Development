@@ -129,5 +129,5 @@ Below is the structured roadmap for the Web Development Course, organized into *
             +-------------------------+
             |       Building   NFTs   |
             +-------------------------+
-
-
+~~~
+![Alt text](../Full_Stack_Web_Development/00_How_to_Start/MyImage.webp)
