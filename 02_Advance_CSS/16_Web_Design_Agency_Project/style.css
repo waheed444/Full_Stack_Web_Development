@@ -14,8 +14,14 @@ h1 {
   font-size: 5rem;
 }
 
+span{
+  color: midnightblue;
+}
+
 footer {
   text-align: right;
   color: midnightblue;
 }
+
+
 
