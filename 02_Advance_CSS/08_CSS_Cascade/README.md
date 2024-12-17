@@ -21,7 +21,7 @@ The **CSS Cascade** refers to the order in which CSS rules are applied to an ele
 ```html
 <p class="text">This is a paragraph.</p>
 ```
-
+### CSS :
 ```css
 /* Rule 1 */
 p {
